@@ -2,6 +2,7 @@
 E-Waste Generation Classification
 
 E-Waste Image Dataset
+
 1.Battery
 2.Keyboard
 3.Microwave
